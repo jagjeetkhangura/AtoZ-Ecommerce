@@ -1,0 +1,10 @@
+https://dzone.com/articles/aspnet-core-crud-with-reactjs-and-entity-framework
+
+
+Scaffold-DbContext "Data Source=LAPTOP-VNNT3MKV\SQLEXPRESS;Initial Catalog=AtoZ_Db;User ID=sa;Password=123paid321;MultipleActiveResultSets=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Tables
+
+https://www.sitepoint.com/how-to-create-an-ecommerce-site-with-react/
+
+https://www.entityframeworktutorial.net/Querying-with-EDM.aspx
+
+https://www.google.com/search?q=in+entity+framework+where+we+use+sql+queries&oq=in+entity+framework+where+we+use+sql+queries&aqs=chrome..69i57j69i64l2.16321j0j9&sourceid=chrome&ie=UTF-8
