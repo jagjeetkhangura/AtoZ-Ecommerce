@@ -35,7 +35,7 @@ export class Get_Products extends React.Component<RouteComponentProps<{}>, Retri
 
 	public render() {
     let  Data_from_DB = this.state.loading
-            ? <p><em>Content Loading...</em></p>
+            ? <p><em>Content Loading Data...</em></p>
             : this.renderProducts(this.state.product_List);
 
         return <div>
